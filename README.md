@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm Furkan Kaymak</h1>
-<h3 align="center">I build real products — not tutorials.</h3>
+# Hello 👋, I'm Furkan Kaymak
+### Software & Game Developer
 
-- 📫 How to reach me **furkankobain@hotmail.com**
+I’m an independent software & game developer building real-world projects.
 
-<h3 align="left">Connect with me:</h3>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/furkan-kaymak-986038376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.tiktok.com/@furkankobain" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.youtube.com/@furkankobain" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.instagram.com/furkankobain/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+## Skills
+
 <p align="left">
-<a href="https://twitter.com/furkankobain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="furkankobain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/furkan kaymak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan kaymak" height="30" width="40" /></a>
-<a href="https://instagram.com/furkankobain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkankobain" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/furkankobai̇n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="furkankobai̇n" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkankobain&show_icons=true&locale=en&layout=compact" alt="furkankobain" /></p>
+### Tuniverse
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkankobain&show_icons=true&locale=en" alt="furkankobain" /></p>
+A music-focused social media application
+
+---
+
+### Run! Musician Run!
+
+a mobile runner game
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=furkankobain&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankobain&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=furkankobain&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/furkankobain/count.svg?" alt="visitors count" />
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/furkankobain"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=furkankobain" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkankobain&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
